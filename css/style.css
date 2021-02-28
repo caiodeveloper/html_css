@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    max-width: 1230px;
+    margin: auto;
+    background-color:#97b9b9;
+    height: 55px;
+    border-radius: 1px 1px 20px 20px;
+    
+
+}
+.container header{
+    max-width: 1200px;
+    margin: auto;
+    
+
+    
+}
+.nav{
+    text-align: center;
+}
+
+
+.nav .menu{
+    margin: 0;
+    background-color:#527a7a;
+    list-style: none;
+    position: relative;
+    border-radius: 1px 1px 15px 15px;   
+
+    
+}
+
+.nav .menu li{
+      
+    display: inline;
+    font-size: 20px;    
+    
+}
+nav .menu li a{
+   
+    padding: 10px 10px;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    text-transform: capitalize;          
+           
+}
+nav .menu li a:hover{
+    color: #1f2e2e;
+}
