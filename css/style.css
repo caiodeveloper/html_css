@@ -53,6 +53,11 @@ nav .menu li a:hover{
     color: #1f2e2e;
 }
 
-.section1{
-    background-image:
+main .section1{
+
+    background-image:url()
+    
+}
+.section1 h1{
+    margin: 0;
 }
