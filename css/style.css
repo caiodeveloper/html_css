@@ -53,11 +53,21 @@ nav .menu li a:hover{
     color: #1f2e2e;
 }
 
-main .section1{
+.section1{
+    background: url(https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2019/10/imagemn-escolhida-artigo-e1571255765939-1280x720.jpg);
+    background-attachment: fixed;
 
-    background-image:url()
-    
 }
-.section1 h1{
-    margin: 0;
+.section2{
+    background: url(https://cdn-istoedinheiro-ssl.akamaized.net/wp-content/uploads/sites/17/2019/10/imagemn-escolhida-artigo-e1571255765939-1280x720.jpg);
+    background-attachment: fixed)
+}
+.fundo{
+    padding-top: 190px;
+    padding-bottom: 240px;
+    font-size: 30px;
+    color: white;
+}
+.teste{
+    padding-bottom: 150px;
 }
